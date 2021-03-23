@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-23T12:03:27 EET" name="Default suite" finished-at="2021-03-23T12:03:46 EET" duration-ms="18376">
+    <groups>
+    </groups>
+    <test started-at="2021-03-23T12:03:27 EET" name="Default test" finished-at="2021-03-23T12:03:46 EET" duration-ms="18376">
+      <class name="com.provectus.studentregistrationform.StudentRegistrationFormTestNG">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.provectus.studentregistrationform.StudentRegistrationFormTestNG@3e2e18f2]" started-at="2021-03-23T12:03:27 EET" name="setUp" finished-at="2021-03-23T12:03:30 EET" duration-ms="2453" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="submitForm()[pri:0, instance:com.provectus.studentregistrationform.StudentRegistrationFormTestNG@3e2e18f2]" started-at="2021-03-23T12:03:30 EET" name="submitForm" finished-at="2021-03-23T12:03:44 EET" duration-ms="13851" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submitForm -->
+        <test-method signature="verifyMandatoryFields()[pri:0, instance:com.provectus.studentregistrationform.StudentRegistrationFormTestNG@3e2e18f2]" started-at="2021-03-23T12:03:44 EET" name="verifyMandatoryFields" finished-at="2021-03-23T12:03:45 EET" duration-ms="1217" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMandatoryFields -->
+        <test-method is-config="true" signature="cleanUp()[pri:0, instance:com.provectus.studentregistrationform.StudentRegistrationFormTestNG@3e2e18f2]" started-at="2021-03-23T12:03:45 EET" name="cleanUp" finished-at="2021-03-23T12:03:46 EET" duration-ms="805" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+      </class> <!-- com.provectus.studentregistrationform.StudentRegistrationFormTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
